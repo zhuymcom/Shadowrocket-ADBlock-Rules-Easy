@@ -1,3 +1,5 @@
+<a href="https://nthack.github.io/Shadowrocket-ADBlock-Rules-Easy/sr_banlist.conf" target="_blank">源地址</a>
+
 iOS 规则
 
 <table>
